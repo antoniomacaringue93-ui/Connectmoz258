@@ -1,0 +1,17 @@
+{
+  "name": "connectmoz258",
+  "version": "1.0.0",
+  "description": "Marketplace ConnectMoz258 - ConnectVendas e MotoExpress",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "connectmoz258",
+    "marketplace",
+    "mozambique"
+  ],
+  "author": "António Macaringue",
+  "license": "MIT"
+}
